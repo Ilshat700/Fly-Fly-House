@@ -61,24 +61,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 
 </br>
 
-<!--Demo -->
-# Demo
 
-## Screens
-<img src="https://ucarecdn.com/f2f12247-4616-42ca-a028-1709e23fb678/" width="49%"> <img src="https://ucarecdn.com/a4dd00c5-26bb-4734-a52a-4fcfae92abc5/" width="49%">
-
-</br>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add English language support
-- [ ] Add more screens
-- [ ] Multi-language Support
-
-See the [open issues](https://github.com/{nickname}/{project_name}/issues) for a full list of proposed features (and known issues).
-
-</br>
 
 
 <!-- CONTRIBUTING -->
